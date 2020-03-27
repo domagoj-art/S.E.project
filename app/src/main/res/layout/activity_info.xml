@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <TextView
+        android:id="@+id/activity_info_textView"
+        android:layout_width="match_parent"
+        android:textSize="20dp"
+        android:padding="8dp"
+        android:text="@string/info"
+        android:layout_height="wrap_content" />
+</ScrollView>
